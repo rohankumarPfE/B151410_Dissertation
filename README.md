@@ -1,4 +1,4 @@
-# B151410_Dissertation
+# Dissertation
 Codebase for Economics Honours Dissertation @ University of Edinburgh
 
 This is the codebase for my undergraduate honours dissertation at the University of Edinburgh. The topic is integrating microsimulation and machine learning for health policy evaluation.
